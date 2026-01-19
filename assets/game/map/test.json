@@ -1,0 +1,43 @@
+{
+  "name": "Test Map",
+  "spawn_position": [0.0, 3.0, -20.0],
+  "brushes": [
+    {
+      "type": "box",
+      "position": [0.0, -2.25, 0.0],
+      "size": [100.0, 4.5, 100.0]
+    },
+    {
+      "type": "slope",
+      "position": [0.0, 0.0, 20.0],
+      "width": 30.0,
+      "height": 20.0,
+      "angle": 46.0
+    },
+    {
+      "type": "box",
+      "position": [25.0, 3.0, 0.0],
+      "size": [4.0, 6.0, 4.0]
+    },
+    {
+      "type": "box",
+      "position": [-25.0, 2.0, 15.0],
+      "size": [6.0, 4.0, 6.0]
+    },
+    {
+      "type": "box",
+      "position": [0.0, 1.0, -30.0],
+      "size": [8.0, 2.0, 3.0]
+    },
+    {
+      "type": "box",
+      "position": [-15.0, 4.0, -15.0],
+      "size": [3.0, 8.0, 3.0]
+    },
+    {
+      "type": "box",
+      "position": [30.0, 1.5, 25.0],
+      "size": [5.0, 3.0, 5.0]
+    }
+  ]
+}
